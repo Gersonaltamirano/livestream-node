@@ -4,4 +4,4 @@
 /media/*/
 
 # No ignorar archivos en la carpeta media
-!/media/*
+!/media/.
