@@ -1,7 +1,7 @@
 /node_modules/*
 
 # Ignorar todas las carpetas dentro de media
-media/*/
+/media/*/
 
 # No ignorar archivos en la carpeta media
-!media/*
+!/media/*
